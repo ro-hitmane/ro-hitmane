@@ -54,12 +54,8 @@ I'm a full-stack developer based in Pune, India, currently working as a **Foundi
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ro-hitmane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ro-hitmane&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
-</p>
 
----
+https://github-readme-stats.vercel.app/api/top-langs/?username=ro-hitmane&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5
 
 <p align="center">
   <i>Open to full-stack and cloud engineering opportunities — reach me on <a href="https://www.linkedin.com/in/rohitam">LinkedIn</a>.</i>
