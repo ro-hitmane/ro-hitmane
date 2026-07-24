@@ -50,7 +50,3 @@ I'm a full-stack developer based in Pune, India, currently working as a **Foundi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ro-hitmane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ro-hitmane&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
-</p>
