@@ -1,7 +1,10 @@
 <div align="center">
 
-# Hi, I'm Rohit Mane 👋
-##### Software Engineer · Java Developer · Founding Engineer @ Bitnest · Cloud Engineer
+<picture>
+   <source media="(prefers-color-scheme: light)" srcset="header-light.png">
+   <img alt="Logo for Rohit Mane">
+</picture>
+
 <p align="center">
   <a href="https://linkedin.com/in/ro-hitmane"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
@@ -53,6 +56,7 @@ Software Engineer based in Pune, India, with practical experience in web applica
 
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00A86B?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages%2FWorkers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
